@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "crcon"
-version = "1.0.1"
+version = "1.1.2"
 authors = [
   {name = "Umit Tasdelen", email = "umittadelen1277@gmail.com"}
 ]

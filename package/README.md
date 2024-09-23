@@ -17,9 +17,19 @@ pip install crcon
 
 ## Functions
 ```cmd
-crcon text <hex code> #text color
-crcon bg <hex code>   #text background color
-crcon text reset      #reset text color
-crcon bg reset        #reset bg color
+crcon text <hex code>
+#text color
+
+crcon bg <hex code>
+#text background color
+
+crcon text reset
+#reset text color
+
+crcon bg reset
+#reset bg color
+
+crcon style <style>
+#change text styling (italic, bold, doubleunderlined, faint, hidden, normalintensity, overlined, propspacing, reverse, strikethrough, underline)
 ```
 <br>
